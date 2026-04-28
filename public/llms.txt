@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+אופנה ואקססוריז ברמה אחרת לגמרי. משקפי שמש מיוחדים לגברים ונשים שמשלבים עיצוב חדשני עם סגנון ייחודי. הפוך את המבט שלך לאמירה אמיתית — גלה את הקולקציה עכשיו.
+
+### אומנות
+https://example.com/craftsmanship
+אומנות האיכות שמאחורי כל עדשה ומסגרת. גלה כיצד משקפי שמש יוקרה טרנדי מקבלים חיים דרך תהליך עיצוב קפדני, חומרים נבחרים וחזון אמנותי שאין לו תחרות בשוק האופנה הישראלי.
+
+### אודות
+https://example.com/about
+מי אנחנו ולמה משקפי שמש מודרניים ישראל לא יהיו אותו דבר אחרינו. הכירו את החזון, הערכים והתשוקה שהפכו את Opium &amp; president למותג אופנה ואקססוריז שמגדיר מחדש את הסטייל העכשווי.
+
+### צור קשר
+https://example.com/contact
+רוצה למצוא את משקפי השמש המיוחדים לגברים ונשים שידברו בשבילך? צור קשר עם צוות Opium &amp; president עוד היום — נשמח לעזור לך לבחור את הזוג המושלם שישלים את הלוק שלך.
+
+### Products
+https://example.com/products
+המוצרים שלנו - Opium & president
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - Opium & president
+
+### Category
+https://example.com/category/:slug
+מוצרים - Opium & president
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
